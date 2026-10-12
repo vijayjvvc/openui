@@ -1,4 +1,4 @@
-package com.rowan.android.uiclasses;
+package com.rowan.android.wavepure.uiClasses;
 
 import android.content.Context;
 import android.graphics.Canvas;
